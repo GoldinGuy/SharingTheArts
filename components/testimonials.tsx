@@ -3,7 +3,7 @@
 import { useEffect } from "react";
 
 import Image from "next/image";
-import TestimonialsImage01 from "@/public/images/testimonial-01.jpg";
+import TestimonialsImage01 from "@/public/images/assets/9.png";
 import TestimonialsImage02 from "@/public/images/testimonial-02.jpg";
 import TestimonialsImage03 from "@/public/images/testimonial-03.jpg";
 

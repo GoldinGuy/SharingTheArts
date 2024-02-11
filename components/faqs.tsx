@@ -19,34 +19,41 @@ export default function Faqs() {
 							{/* Item */}
 							<div className="space-y-2">
 								<h4 className="text-xl font-bold font-cabinet-grotesk">
-									What is the difference between the Free and Paid versions?
+									What is our goal?
 								</h4>
 								<p className="text-gray-500">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-									do eiusmod tempor incididunt ut labore et dolore magna aliqua,
-									ut enim ad minim veniam.
+									Sharing The Arts is dedicated to mentoring underserved
+									elementary school students in the arts by providing them the
+									opportunity to discover their passions in the art areas of
+									music, dance, visual arts, and communications. Through weekly
+									sessions at a local school led by a group of Dreyfoos
+									volunteer mentors, we hope to instill in the students a love
+									for the arts with the ultimate goal of them auditioning and
+									attending the middle and high schools of the arts in our
+									county– something they might not be able to do otherwise. 
 								</p>
 							</div>
 							{/* Item */}
 							<div className="space-y-2">
 								<h4 className="text-xl font-bold font-cabinet-grotesk">
-									Do you have student or non-profit discounts?
+									How does Sharing the Arts work?
 								</h4>
 								<p className="text-gray-500">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-									do eiusmod tempor incididunt ut labore et dolore magna aliqua,
-									ut enim ad minim veniam.
+									Each Monday, high school students from Dreyfoos School of the
+									Arts curate lesson plans and teach students about their art
+									area. We aim to focus on two of the arts per week, rotating
+									through them to keep students engaged and always looking
+									forward to the next week.
 								</p>
 							</div>
 							{/* Item */}
 							<div className="space-y-2">
 								<h4 className="text-xl font-bold font-cabinet-grotesk">
-									How is the price determined?
+									Where is Sharing the Arts?
 								</h4>
 								<p className="text-gray-500">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-									do eiusmod tempor incididunt ut labore et dolore magna aliqua,
-									ut enim ad minim veniam.
+									Currently, Sharing the Arts is working with The Foundations
+									School in West Palm Beach, Florida.
 								</p>
 							</div>
 						</div>
@@ -55,34 +62,39 @@ export default function Faqs() {
 							{/* Item */}
 							<div className="space-y-2">
 								<h4 className="text-xl font-bold font-cabinet-grotesk">
-									Do I need coding knowledge to use this product?
+									Who runs Sharing the Arts?
 								</h4>
 								<p className="text-gray-500">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-									do eiusmod tempor incididunt ut labore et dolore magna aliqua,
-									ut enim ad minim veniam.
+									Sharing the Arts is student-run organization, with Dreyfoos
+									students as mentors, leaders, and organizers. It is led by
+									siblings Nathan and Lila Goldin.
 								</p>
 							</div>
 							{/* Item */}
 							<div className="space-y-2">
 								<h4 className="text-xl font-bold font-cabinet-grotesk">
-									Is there a way to become an Affiliate reseller?
+									Where did the idea for Sharing the Arts come from?
 								</h4>
 								<p className="text-gray-500">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-									do eiusmod tempor incididunt ut labore et dolore magna aliqua,
-									ut enim ad minim veniam.
+									The idea for this project came from founder Nathan Goldin, as
+									he reflected on his time in arts schools and wanted to create
+									a program to give back to the community, providing students of
+									all backgrounds with the resources they would need to apply
+									for those schools.
 								</p>
 							</div>
 							{/* Item */}
 							<div className="space-y-2">
 								<h4 className="text-xl font-bold font-cabinet-grotesk">
-									What forms of payment do you accept?
+									Why should I donate?
 								</h4>
 								<p className="text-gray-500">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-									do eiusmod tempor incididunt ut labore et dolore magna aliqua,
-									ut enim ad minim veniam.
+									Sharing the Arts is responsible for purchasing any supplies
+									that our students need to prepare for an audition or hone
+									their craft. This may include but is not limited to dance
+									shoes, art supplies, or instruments. Without funds, we cannot
+									do our duty to provide these students with everything they
+									need.
 								</p>
 							</div>
 						</div>
