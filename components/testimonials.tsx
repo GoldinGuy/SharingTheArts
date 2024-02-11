@@ -85,8 +85,9 @@ export default function Testimonials() {
 												/>
 											</svg>
 											<h4 className="mb-4 h3 font-cabinet-grotesk">
-												Sharing the Arts is a great organization that helped me
-												find my passion for music and apply to Bak MSOA!
+												Sharing the Arts teaches students to express themselves
+												through the arts, including music, dance, visual arts,
+												communications, and more.
 											</h4>
 											<div>
 												<a
