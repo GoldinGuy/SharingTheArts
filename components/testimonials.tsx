@@ -86,8 +86,8 @@ export default function Testimonials() {
 											</svg>
 											<h4 className="mb-4 h3 font-cabinet-grotesk">
 												Sharing the Arts teaches students to express themselves
-												through the arts, including music, dance, visual arts,
-												communications, and more.
+												through music, dance, communications, visual arts, and
+												more.
 											</h4>
 											<div>
 												<a
